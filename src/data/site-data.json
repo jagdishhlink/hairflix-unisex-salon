@@ -1,0 +1,308 @@
+{
+  "business": {
+    "name": "HairFlix Unisex Salon",
+    "category": "Hairdresser",
+    "address": "\nFirst Floor 108, Silver Oak College Of Engineering And Technology Class Room, Rudram SkyVue, University Road, opposite Lambda Research, Gota, Ahmedabad, Gujarat 382481",
+    "phone": "\n093768 07777",
+    "email": "",
+    "website": "",
+    "mapUrl": "https://www.google.com/maps/place/HairFlix+Unisex+Salon/@23.0899703,72.5316419,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8392a61a6fc5:0xfe46c0e6ca767b19!8m2!3d23.0899703!4d72.5316419!16s%2Fg%2F11xmnn3fks?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+    "latitude": "23.0899703",
+    "longitude": "72.5316419",
+    "rating": "",
+    "reviewsCount": "311",
+    "openingHours": "Show open hours for the week",
+    "logo": null,
+    "images": [
+      "/images/gmap_1780321153024_1.jpg",
+      "/images/gmap_1780321153180_2.jpg",
+      "/images/gmap_1780321152998_0.jpg"
+    ],
+    "description": "",
+    "socials": {}
+  },
+  "content": {
+    "hero": {
+      "headline": "Your Style Story Begins at HairFlix",
+      "subheadline": "Nestled in the heart of Gota's vibrant University Road, HairFlix Unisex Salon transforms your vision into stunning reality. Where creativity meets craftsmanship, every cut tells your unique story.",
+      "cta": "Book Your Appointment",
+      "ctaSecondary": "Call 093768 07777"
+    },
+    "about": {
+      "title": "Crafting Beauty Stories Since Day One",
+      "story": "From our elegant studio on First Floor 108, HairFlix has become Gota's trusted destination for hair transformation. We believe every person deserves to feel radiant, whether you're heading to Silver Oak College or stepping into your next chapter. Our skilled artisans blend timeless techniques with contemporary trends, creating looks that reflect your authentic self while honoring your lifestyle.",
+      "highlights": [
+        {
+          "icon": "✨",
+          "title": "Unisex Expertise",
+          "description": "Masterful styling for every gender, age, and hair type with personalized attention"
+        },
+        {
+          "icon": "🎨",
+          "title": "Creative Vision",
+          "description": "Innovative cuts and colors that enhance your natural beauty and personal style"
+        },
+        {
+          "icon": "💎",
+          "title": "311 Transformations",
+          "description": "A growing community of satisfied clients who trust us with their signature look"
+        },
+        {
+          "icon": "🌟",
+          "title": "University Road Convenience",
+          "description": "Perfectly located for students, professionals, and families in the Gota area"
+        }
+      ]
+    },
+    "services": {
+      "title": "Your Complete Style Journey",
+      "items": [
+        {
+          "icon": "✂️",
+          "title": "Precision Cuts & Styling",
+          "description": "From classic bobs to edgy layers, our stylists craft cuts that move beautifully with your lifestyle and enhance your natural features."
+        },
+        {
+          "icon": "🎨",
+          "title": "Color Artistry",
+          "description": "Rich highlights, bold transformations, or subtle touches - we paint your hair story with professional-grade colors that last."
+        },
+        {
+          "icon": "💇",
+          "title": "Hair Treatments",
+          "description": "Nourishing deep conditioning, smoothing treatments, and repair therapies that restore your hair's health and shine."
+        },
+        {
+          "icon": "👰",
+          "title": "Bridal & Special Occasions",
+          "description": "Elegant updos and glamorous styling for your most memorable moments, designed to photograph beautifully."
+        },
+        {
+          "icon": "🧔",
+          "title": "Men's Grooming",
+          "description": "Sharp cuts, beard sculpting, and modern styling that keeps you looking polished for work or weekend."
+        },
+        {
+          "icon": "🌿",
+          "title": "Scalp Care & Wellness",
+          "description": "Therapeutic scalp treatments and healthy hair consultations that address your unique concerns with gentle care."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Stories from Our Styling Community",
+      "items": [
+        {
+          "name": "Priya Sharma",
+          "role": "Engineering Student",
+          "text": "The stylists at HairFlix completely understood my vision and gave me the perfect cut for my face shape. I get compliments every day!",
+          "rating": 5
+        },
+        {
+          "name": "Rahul Patel",
+          "role": "Software Developer",
+          "text": "Finally found a salon that knows how to cut men's hair properly. The attention to detail is incredible and the location is so convenient.",
+          "rating": 5
+        },
+        {
+          "name": "Meera Joshi",
+          "role": "Working Professional",
+          "text": "My color transformation exceeded all expectations. The team is so talented and made me feel comfortable throughout the entire process.",
+          "rating": 5
+        }
+      ]
+    },
+    "faq": {
+      "title": "Everything You Want to Know",
+      "items": [
+        {
+          "question": "How do I book an appointment at HairFlix?",
+          "answer": "Simply call us at 093768 07777 or visit us at First Floor 108 in Rudram SkyVue. We recommend booking in advance to secure your preferred time slot."
+        },
+        {
+          "question": "Do you cater to both men and women?",
+          "answer": "Absolutely! HairFlix is a unisex salon with experienced stylists trained in cutting and styling for all genders, ages, and hair types."
+        },
+        {
+          "question": "Where exactly are you located in Gota?",
+          "answer": "We're on First Floor 108 of Rudram SkyVue on University Road, directly opposite Lambda Research. Very convenient for Silver Oak College students and nearby residents."
+        },
+        {
+          "question": "What should I expect during my first visit?",
+          "answer": "Your stylist will begin with a detailed consultation to understand your lifestyle, preferences, and hair goals before recommending the perfect cut or treatment for you."
+        },
+        {
+          "question": "Do you use professional hair products?",
+          "answer": "Yes, we exclusively use salon-grade products and tools to ensure the best results and maintain the health of your hair during every service."
+        },
+        {
+          "question": "How long do typical appointments take?",
+          "answer": "Cut and style appointments typically take 45-90 minutes, while color services may require 2-3 hours. We'll give you an accurate time estimate when you book."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Ready for Your Hair Transformation?",
+      "subtitle": "Visit our elegant studio on University Road and discover your signature style"
+    },
+    "cta": {
+      "title": "Your Perfect Look Awaits",
+      "subtitle": "Join 311 satisfied clients who've found their signature style",
+      "button": "Schedule Your Visit"
+    },
+    "meta": {
+      "title": "HairFlix Unisex Salon | Professional Hair Styling in Gota, Ahmedabad",
+      "description": "Expert hair cuts, color & styling for men & women in Gota. Located on University Road opposite Lambda Research. Call 093768 07777 to book."
+    }
+  },
+  "pages": [
+    {
+      "slug": "",
+      "title": "Home",
+      "type": "home",
+      "sections": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "variant": "split"
+        },
+        {
+          "id": "services-preview",
+          "type": "grid",
+          "columns": 3,
+          "variant": "cards"
+        },
+        {
+          "id": "gallery-preview",
+          "type": "gallery",
+          "variant": "grid"
+        },
+        {
+          "id": "testimonials-preview",
+          "type": "testimonials",
+          "variant": "cards"
+        },
+        {
+          "id": "home-cta",
+          "type": "cta",
+          "variant": "banner"
+        }
+      ]
+    },
+    {
+      "slug": "about",
+      "title": "Crafting Beauty Stories Since Day One",
+      "type": "about",
+      "sections": [
+        {
+          "id": "about-full",
+          "type": "narrative",
+          "variant": "split-image"
+        },
+        {
+          "id": "highlights",
+          "type": "grid",
+          "columns": 2,
+          "variant": "compact"
+        }
+      ]
+    },
+    {
+      "slug": "services",
+      "title": "Your Complete Style Journey",
+      "type": "services",
+      "sections": [
+        {
+          "id": "services-full",
+          "type": "grid",
+          "columns": 3,
+          "variant": "detailed"
+        }
+      ]
+    },
+    {
+      "slug": "gallery",
+      "title": "Gallery",
+      "type": "gallery",
+      "sections": [
+        {
+          "id": "gallery-full",
+          "type": "gallery",
+          "variant": "masonry"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "title": "Ready for Your Hair Transformation?",
+      "type": "contact",
+      "sections": [
+        {
+          "id": "contact-full",
+          "type": "contact",
+          "variant": "split-map"
+        }
+      ]
+    }
+  ],
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "design": {
+    "colors": {
+      "primary": "#be185d",
+      "primaryHover": "#9d174d",
+      "secondary": "#b8860b",
+      "accent": "#f97316",
+      "background": "#fefcfa",
+      "surface": "#fdf2f8",
+      "text": "#1f2937",
+      "textMuted": "#6b7280",
+      "border": "#f3e8ff"
+    },
+    "typography": {
+      "headingFont": "Playfair Display",
+      "bodyFont": "Jost",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "baseSize": 16,
+      "scale": 1.25,
+      "lineHeight": 1.7
+    },
+    "spacing": {
+      "sectionPadding": "80px",
+      "containerWidth": "1100px",
+      "cardPadding": "32px",
+      "gap": "24px"
+    },
+    "radius": {
+      "button": "12px",
+      "card": "16px",
+      "image": "12px"
+    },
+    "shadows": {
+      "card": "0 4px 20px rgba(190, 24, 93, 0.08)",
+      "cardHover": "0 8px 32px rgba(190, 24, 93, 0.15)"
+    },
+    "darkMode": false
+  }
+}
